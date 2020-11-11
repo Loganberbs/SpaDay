@@ -73,25 +73,25 @@ body {
 #redBox{
     background-color: red;
     height: 40px;
-    width: 40px
+    width: 50px;
 }
 #yellowBox {
     background-color: yellow;
     height: 40px;
-    width: 40px
+    width: 50px;
 }
-#blueBox {
+#greenBox {
     background-color: green;
     height: 40px;
-    width: 40px
+    width: 50px;
 }
 #blueBox {
     background-color: blue;
     height: 40px;
-    width: 40px
+    width: 50px;
 }
 #purpleBox {
     background-color: purple;
     height: 40px;
-    width: 40px
+    width: 50px;
 }
